@@ -1,7 +1,6 @@
 <!-- ![](https://htmonster.xyz/static/icons/logo.png) -->
 
 <h1 align="center">Hi 👋, I'm HTmonster</h1>
-<h3 align="center">A code lover from China</h3>
 
 [![](https://img.shields.io/badge/website-htmonster.xyz-green)](https://htmonster.xyz)
 ![](https://img.shields.io/badge/Go-Gopher-blue)
